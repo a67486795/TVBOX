@@ -1,6 +1,6 @@
 {//"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/custom_spider1.jar",
-//"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/fix230228.jar",
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/a67486795/TVBOX/main/3.jar;md5;E4F55FB5313DC22982A3175655D3DDFE",
+"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/fix230228.jar",
+//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/a67486795/TVBOX/main/3.jar;md5;E4F55FB5313DC22982A3175655D3DDFE",
 //"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/20230307.jar",
 //"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/custom_spider.jar",
 //"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/2915.jar",
