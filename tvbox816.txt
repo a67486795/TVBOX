@@ -1,5 +1,5 @@
 {//"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/custom_spider1.jar",
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/a67486795/TVBOX/main/fix230228.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/a67486795/TVBOX/main/3.jar",
 //"spider":"http://52bsj.vip:81/api/v3/file/get/101646/3.jar?sign=XFH0QoYXLyQogBXM4F4wS6tTWjVqqO2al1MNJsUTrg8%3D%3A0",
 //"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/20230307.jar",
 //"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/custom_spider.jar",
