@@ -36,7 +36,7 @@
 {"key":"csp_Tkys","name":"天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/555%e7%94%b5%e5%bd%b1.json","spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/custom_spider%20%28%e7%b2%be%e7%ae%80%29.jar"},
+{"key":"555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/555%e7%94%b5%e5%bd%b1.json","jar":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/custom_spider%20%28%e7%b2%be%e7%ae%80%29.jar"},
 {"key":"蓝光影院","name":"蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e8%93%9d%e5%85%89%e5%bd%b1%e9%99%a2.json"},
 {"key":"茶杯狐","name":"茶杯狐(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e8%8c%b6%e6%9d%af%e7%8b%90.json"},
 {"key":"神马影院","name":"神马影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e7%a5%9e%e9%a9%ac%e5%bd%b1%e9%99%a2.json"},
