@@ -45,7 +45,7 @@
 {"key":"Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 
 
-
+{"key":"热播之家","name":"热播之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e7%83%ad%e6%92%ad%e4%b9%8b%e5%ae%b6.json"},
 {"key":"555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/555%e7%94%b5%e5%bd%b1.json"},
 {"key":"蓝光影院","name":"蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e8%93%9d%e5%85%89%e5%bd%b1%e9%99%a2.json"},
 {"key":"茶杯狐","name":"茶杯狐(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e8%8c%b6%e6%9d%af%e7%8b%90.json"},
