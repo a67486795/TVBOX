@@ -1,4 +1,4 @@
-{"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/XYQHiker20230420.jar",
+{"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/Yoursmile.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2E2NzQ4Njc5NS90dmJveC9yYXcvYnJhbmNoL21hc3Rlci9saXZlL3poaWJvMDkwMS50eHQ="]}]}],
 
