@@ -27,7 +27,7 @@
 {"key":"hnzy","name":"红牛资源(SP)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"忆梦","name":"忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
-{"key":"csp_XYQH","name":"Nike","type":3,"api":"csp_XYQH","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXP/nike.json"},
+{"key":"csp_XBPQ","name":"Nike","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXP/nike.json"},
 
 {"key":"csp_xpath_网络搜集库qiumi","name":"看球","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXP/%e7%9c%8b%e7%90%83.json"},
 {"key":"csp_XYQBiu_17看球","name":"⚽17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/oo/o/raw/master/17%e7%9c%8b%e7%90%83.json"},
