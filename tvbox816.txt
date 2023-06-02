@@ -4,7 +4,7 @@
 //"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/20230307.jar",
 //"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/custom_spider.jar",
 //"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/2915.jar",
-"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/Yoursmile.jar",
+"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/Yoursmile.jar;md5;87824053970BB85578121EBE1E2F5333",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2E2NzQ4Njc5NS90dmJveC9yYXcvYnJhbmNoL21hc3Rlci9saXZlL3poaWJvMDkwMS50eHQ="]}]}],
 
 
