@@ -61,7 +61,7 @@
 {"key":"csp_biubiu_斗鱼","name":"斗鱼〔直播〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e6%96%97%e9%b1%bc.json"},
 {"key":"csp_biubiu_口袋影院","name":"口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e5%8f%a3%e8%a2%8b%e5%bd%b1%e9%99%a2.json"},
 
-
+{"key":"csp_xBPQ","name":"无名小站","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e6%97%a0%e5%90%8d%e5%b0%8f%e7%ab%99.json"},
 {"key":"csp_xBPQ","name":"Nike","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXP/nike.json"},
 {"key":"csp_xpath_huya","name":"虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXP/huya2.json"},
 
