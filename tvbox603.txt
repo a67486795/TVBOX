@@ -44,6 +44,17 @@
 {"key":"Ying","name":"🌸樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 
+        {
+            "key": "csp_xb_lgyy",
+            "name": "蓝光影院(R)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html",
+        },
+
 {"key":"北川影视","name":"北川影视(XBqp)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXP/%e5%8c%97%e5%b7%9d%e5%bd%b1%e8%a7%86.json"},
 {"key":"热播之家","name":"热播之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e7%83%ad%e6%92%ad%e4%b9%8b%e5%ae%b6.json"},
 {"key":"555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/555%e7%94%b5%e5%bd%b1.json"},
@@ -60,6 +71,7 @@
 {"key":"csp_biubiu_VOFLIX","name":"VOFLIXHD(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/voflix.json"},
 {"key":"csp_biubiu_斗鱼","name":"斗鱼〔直播〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e6%96%97%e9%b1%bc.json"},
 {"key":"csp_biubiu_口袋影院","name":"口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e5%8f%a3%e8%a2%8b%e5%bd%b1%e9%99%a2.json"},
+
 
 
 {"key":"csp_xBPQ","name":"Nike","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXP/nike.json"},
