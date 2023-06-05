@@ -43,7 +43,7 @@
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Ying","name":"🌸樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_xb_lgyy", "name": "蓝光影院(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.lgyy.vip/vodshow/{cateId}--------{catePg}---.html",},
+{"key": "csp_xb_lgyy", "name": "蓝光影院(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.lgyy.vip/vodshow/{cateId}--------{catePg}---.html"},
 
 {"key":"北川影视","name":"北川影视(XBqp)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXP/%e5%8c%97%e5%b7%9d%e5%bd%b1%e8%a7%86.json"},
 {"key":"热播之家","name":"热播之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e7%83%ad%e6%92%ad%e4%b9%8b%e5%ae%b6.json"},
