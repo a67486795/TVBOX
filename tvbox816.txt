@@ -1,78 +1,37 @@
+{//"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/custom_spider1.jar",
+//"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/fix0516.jar",
+//"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/1.jar",
+//"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/20230307.jar",
+//"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/custom_spider.jar",
+//"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/2915.jar",
+"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/Yoursmile.jar;md5;87824053970BB85578121EBE1E2F5333",
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2E2NzQ4Njc5NS90dmJveC9yYXcvYnJhbmNoL21hc3Rlci9saXZlL3poaWJvMDkwMS50eHQ="]}]}],
 
-“sites”：[{
-			"key": "量子云播",
-			"name": "云播🔀量子云播",
-			“type”：1，
-			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
-			"playUrl": "",
-			“searchable”：1，
-			“quickSearch”：1，
-			“filterable”：1，
-			“categories”：[
-				“动作片”，
-				“喜剧片”,
-				《爱情片》，
-				“科幻片”，
-				“恐怖片”，
-				“剧情片”,
-				“战争片”，
-				"国产剧",
-				《香港剧》,
-				《韩国剧》,
-				《欧美剧》,
-				"记录片",
-				《台湾剧》、
-				《日本剧》,
-				《海外剧》,
-				《泰国剧》,
-				《大陆综艺》,
-				《港台综艺》,
-				《日韩综艺》,
-				《欧美综艺》,
-				“国产动漫”，
-				《日韩动漫》,
-				“欧美动漫”，
-				《港台动漫》、
-				《海外动漫》、
-				《电影解说》
-			]
-		},
-		{
-			"key": "非凡",
-			"name": "云播🔀非凡云播",
-			“类型”：1，
-			“api”：“http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/”，
-			"playUrl": "",
-			“searchable”：1，
-			"quickSearch": 1,
-			"filterable": 1,
-			"categories": [
-				"国产剧",
-				"综艺",
-				"动漫",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"港澳剧",
-				"日剧",
-				"欧美剧",
-				"台湾剧",
-				"泰剧",
-				"韩剧",
-				"纪录片",
-				"动漫电影"
-			]
-		}
+
+"sites":[
+{"key":"量子云播","name":"云播🔀量子云播","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable":1,"quickSearch":1},
+{"key":"非凡","name":"云播🔀非凡云播","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/","searchable":1,"quickSearch":1},
+
+{"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"hnzy","name":"红牛资源(SP)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"忆梦","name":"忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
 
 "parses":[{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"parwix稳定","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"线路1","type":1,"url":"https://play.fuqizhishi.com/gang0829/API.php?appkey=duibuqi0829&url="},
+{"name":"线路3","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
+{"name":"线路4","type":0,"url":"https://okjx.cc/?url="},
+{"name":"线路5","type":1,"url":"https://jx.bynote.top/API.php?url="},
+{"name":"线路6","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
+{"name":"线路7","type":0,"url":"https://jx.parwix.com:4433/player/?url="},
+{"name":"线路8","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+{"name":"线路9","type":0,"url":"https://www.yemu.xyz/?url="},
+{"name":"线路11","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"线路12","type":0,"url":"http://1.117.152.239:39000/?url="},
 {"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="}],"flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩"],"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
 {"category":4,"name":"framedrop","value":"1"},
