@@ -7,7 +7,7 @@
 			"name": "云播🔀量子云播",
 			“类型”：1，
 			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
-			"playUrl": "json:https://jx.bozrc.com:4433/player/?url=",
+			"playUrl": "",
 			“可搜索”：1，
 			“快速搜索”：1，
 			“可过滤”：1，
@@ -45,7 +45,7 @@
 			"name": "云播🔀非凡云播",
 			“类型”：1，
 			“api”：“http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/”，
-			"playUrl": "json:https://jx.bozrc.com:4433/player/?url=",
+			"playUrl": "",
 			“可搜索”：1，
 			"quickSearch": 1,
 			"filterable": 1,
