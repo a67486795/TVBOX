@@ -1,20 +1,20 @@
-{"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/Yoursmile.jar;md5;87824053970BB85578121EBE1E2F5333",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2E2NzQ4Njc5NS90dmJveC9yYXcvYnJhbmNoL21hc3Rlci9saXZlL3poaWJvMDkwMS50eHQ="]}]}],
+
+“生活”：[{“组”：“重定向”，“频道”：[{“名称”：“重定向”，“urls”：[“proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2E2NzQ4Njc5NS90dmJveC9yYXcvYnJhbmNoL21hc3Rlci9saXZlL3poaW JvMDkwMS50eHQ="]}] }],
 
 
-"sites":[{
+“网站”：[{
 			"key": "量子云播",
 			"name": "云播🔀量子云播",
-			"type": 1,
+			“类型”：1，
 			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
-			"playUrl": "https://jx.bozrc.com:4433/player/?url=",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"categories": [
+			"playUrl": "json:https://jx.bozrc.com:4433/player/?url=s
+			“可搜索”：1，
+			“快速搜索”：1，
+			“可过滤”：1，
+			“类别”：[
 				“动作片”，
 				“喜剧片”,
-				“爱情片”,
+				“爱情片”，
 				“科幻片”，
 				“恐怖片”，
 				“剧情片”,
@@ -45,7 +45,7 @@
 			"name": "云播🔀非凡云播",
 			“类型”：1，
 			“api”：“http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/”，
-			"playUrl": "https://jx.bozrc.com:4433/player/?url=",
+			"playUrl": "json:https://jx.bozrc.com:4433/player/?url=",
 			“可搜索”：1，
 			"quickSearch": 1,
 			"filterable": 1,
