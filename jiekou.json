@@ -39,7 +39,7 @@
       "key": "红牛",
       "name": "红牛",
       "type": 0,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnyun/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
