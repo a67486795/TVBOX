@@ -75,7 +75,7 @@
       "key": "新浪云",
       "name": "新浪云",
       "type": 0,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlyun/at/xml/",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -83,8 +83,8 @@
     {
       "key": "极速资源",
       "name": "极速资源",
-      "type": 0,
-      "api": "https://jszyapi.com/api.php/provide/vod/from/jsyun/at/xml",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsyun/at/json",
       "playUrl": "https://jsjiexi.com/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
@@ -113,6 +113,16 @@
       "name": "魔爪资源",
       "type": 0,
       "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "茅台",
+      "name": "茅台",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/ ",
+      "playUrl": "https://www.mtjiexi.cc:966/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
