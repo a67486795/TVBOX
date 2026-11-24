@@ -132,56 +132,7 @@
       "changeable": 1
     }
   ],
-  "parses": [
-    {
-      "name": "XMFLV解析",
-      "type": 1,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "flag": []
-      }
-    },
-    {
-      "name": "Yemu解析",
-      "type": 1,
-      "url": "https://www.yemu.xyz/?url=",
-      "ext": {
-        "flag": []
-      }
-    },
-    {
-      "name": "Jiexi解析",
-      "type": 1,
-      "url": "https://jiexi.site/?url=",
-      "ext": {
-        "flag": []
-      }
-    },
-    {
-      "name": "YParse解析",
-      "type": 1,
-      "url": "https://jx.yparse.com/index.php?url=",
-      "ext": {
-        "flag": []
-      }
-    },
-    {
-      "name": "PlayM3U8解析",
-      "type": 1,
-      "url": "https://www.playm3u8.cn/jiexi.php?url=",
-      "ext": {
-        "flag": []
-      }
-    },
-    {
-      "name": "8090G解析",
-      "type": 1,
-      "url": "https://www.8090g.cn/?url=",
-      "ext": {
-        "flag": []
-      }
-    }
-  ],
+  "parses": [],
   "hosts": [],
   "lives": [],
   "rules": [],
