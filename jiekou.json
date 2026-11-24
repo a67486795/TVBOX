@@ -1,23 +1,6 @@
 {
   "sites": [
     {
-      "key": "最大资源",
-      "name": "最大资源",
-      "type": 1,
-      "api": "https://api.zuidapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺"
-      ]
-    },
-    {
       "key": "无尽资源",
       "name": "无尽资源",
       "type": 1,
@@ -27,28 +10,10 @@
       "filterable": 0
     },
     {
-      "key": "iKun资源",
-      "name": "iKun资源",
-      "type": 0,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "360 资源",
       "name": "360 资源",
       "type": 1,
       "api": "https://360zyzz.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "360资源",
-      "name": "360资源",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -81,15 +46,6 @@
       "filterable": 0
     },
     {
-      "key": "金鹰资源",
-      "name": "金鹰资源",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "U酷资源",
       "name": "U酷资源",
       "type": 1,
@@ -99,10 +55,10 @@
       "filterable": 0
     },
     {
-      "key": "豪华资源",
-      "name": "豪华资源",
+      "key": "量子资源",
+      "name": "量子资源",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/",
+      "api": "https://lzizy1.com/api.php/provide/vod/from/lzm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
