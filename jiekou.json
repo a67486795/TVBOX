@@ -36,15 +36,6 @@
       "filterable": 0
     },
     {
-      "key": "猫眼资源",
-      "name": "猫眼资源",
-      "type": 1,
-      "api": "https://api.maoyanapi.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "360 资源",
       "name": "360 资源",
       "type": 1,
