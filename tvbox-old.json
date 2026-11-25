@@ -1,5 +1,23 @@
 {
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jar/custom_spider.jar;md5;41c87635d7592069884a5dafa12acabe",
   "sites": [
+    {
+      "key": "玩偶4K",
+      "name": "玩偶4K·爬虫",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.wogg.live",
+          "https://woggpan.888484.xyz"
+        ]
+      },
+      "timeout": 60
+    },
     {
       "key": "无尽资源",
       "name": "无尽资源",
@@ -61,6 +79,33 @@
       "api": "https://lzizy1.com/api.php/provide/vod/from/lzm3u8/",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "非凡直连",
+      "name": "非凡直连",
+      "type": 1,
+      "api": "http://ffzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "建安采集",
+      "name": "建安采集",
+      "type": 1,
+      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "天涯采集",
+      "name": "天涯采集",
+      "type": 1,
+      "api": "http://tyyszy.com/api.php/provide/vod",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0
     }
   ],
